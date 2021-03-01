@@ -1,7 +1,5 @@
 package com.study.hp.ymxy.list;
 
-import java.util.Arrays;
-
 public class ArrayList<E> implements List<E> {
 
     private static final int DEFAULT_CAPACITY = 10;

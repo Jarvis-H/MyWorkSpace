@@ -2,7 +2,7 @@ package com.study.hp.ymxy.list;
 
 public class Test {
     public static void main(String[] args) {
-//        List<Integer> list = new ArrayList<Integer>();
+//        List<Integer> arraylist = new ArrayList<Integer>();
         List<Integer> list = new LinkedList<Integer>();
         for (int i = 0; i < 50; i++) {
             list.add(i, i);
