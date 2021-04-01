@@ -1,6 +1,6 @@
 package com.study.hp.ymxy.list;
 
-public class Test {
+public class Test001 {
     public static void main(String[] args) {
 //        List<Integer> arraylist = new ArrayList<Integer>();
         List<Integer> list = new LinkedList<Integer>();

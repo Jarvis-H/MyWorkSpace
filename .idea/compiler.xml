@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-annotation" />
         <module name="spring-boot-01-helloworld" />
         <module name="test-csdn-example" />
       </profile>
